@@ -50,3 +50,5 @@ reverse_chemical_element_colors = {
 ## **License**
 
 This script is open-source and available under the MIT License.
+
+<img src="assets/hem.png" alt="Example" width="600">
