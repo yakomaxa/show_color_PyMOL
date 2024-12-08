@@ -260,7 +260,7 @@ reverse_chemical_element_colors = {
     (0.580, 0.878, 0.878): "zirconium",
 }
 
-# Jsut combine them
+# Just combine them
 combined_reverse_colors = {**reverse_simple_named_colors, **reverse_chemical_element_colors}
 
 def get_color_name_from_rgb(rgb):
