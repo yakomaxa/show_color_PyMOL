@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-`show_color` dynamically labels residues, atoms, or objects in PyMOL with their corresponding color names. This helps you identify colors directly in the visualization without guessing or manually checking RGB values.
+`show_color` labels atoms in PyMOL with their corresponding color names. This helps you identify colors directly in the visualization without guessing or manually checking RGB values.
 
 ---
 
